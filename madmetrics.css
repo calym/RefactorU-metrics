@@ -1,0 +1,58 @@
+
+#button {
+	background-color:#644575;
+	border:solid 2px;
+	border-radius:50px;
+	width:100px;
+	height:100px;
+	margin:100px;
+	position:fixed;
+}
+
+#signup {
+	background-color:#CAC438;
+	border:solid 2px;
+	border-radius:50px;
+	width:100px;
+	height:100px;
+	margin-left:300px;
+	margin-top:100px;
+	position:fixed;
+}
+
+#signup p {
+	text-align:center;
+	font-family: sans-serif;
+	color:white;
+	padding:30px;
+}
+
+#button p {
+	text-align:center;
+	font-family: sans-serif;
+	color:white;
+	padding:30px;
+}
+
+.section1 {
+	border:solid 2px;
+	background-color:#809339;
+	width:90%;
+	height:600px;
+
+}
+
+.section2 {
+	border:solid 2px;
+	background-color:#553845;
+	width:90%;
+	height:600px;
+}
+
+.section3 {
+	border:solid 2px;
+	background-color:#691648;
+	width:90%;
+	height:600px;
+
+}
